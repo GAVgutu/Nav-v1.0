@@ -1,0 +1,4 @@
+# robots.txt generated at https://www.glgzs.com/
+
+User-agent: *
+Disallow:/admin/
