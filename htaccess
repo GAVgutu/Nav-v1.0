@@ -1,0 +1,4 @@
+RewriteEngine On
+
+RewriteRule ^index\.html$ index.php
+RewriteRule ^page/link_([0-9]+)\.html$ detailed.php?id=$1
